@@ -1,3 +1,1 @@
-return {
-    "2292333915"
-}
+Crazy that you were still getting the key from the actual repo huh? Stop being a fiend.
